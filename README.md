@@ -4,6 +4,14 @@ A structured streak of small, focused React projects built to strengthen core fr
 
 This repository documents my consistent hands-on journey with React — focusing on real implementation rather than theory.
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF?logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/BuildWithReact)
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/BuildWithReact)
+![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
+
+
 📌 About This Repository
 
 BuildWithReact is a daily project series where each folder represents a small but complete React application.
