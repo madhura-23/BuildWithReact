@@ -10,93 +10,85 @@ BuildWithReact is a daily project series where each folder represents a small bu
 
 The goal is to:
 
-Strengthen React fundamentals
+- Strengthen React fundamentals
 
-Practice clean component architecture
+- Practice clean component architecture
 
-Improve state management skills
+- Improve state management skills
 
-Build consistency and discipline
+- Build consistency and discipline
 
-Create portfolio-ready mini projects
+- Create portfolio-ready mini projects
 
 🛠 Tech Stack
 
-React
+- React
 
-JavaScript (ES6+)
+- JavaScript (ES6+)
 
-Vite
+- Vite
 
-CSS
+- CSS
 
-LocalStorage (for persistence)
+- LocalStorage (for persistence)
 
-Git & GitHub
+- Git & GitHub
 
 📂 Project Structure
-BuildWithReact/
+``` BuildWithReact/
 │
 ├── Day-01-Todo-App
 ├── Day-02-...
 ├── Day-03-...
 │
 └── README.md
-
-
-Each folder contains:
-
-Source code
-
-Project-specific README (if required)
-
-Screenshots (optional)
+```
 
 🔥 Current Projects
 Day 01 – Todo App
 
 Features:
 
-Add tasks
+_ Add tasks
 
-Delete tasks
+_ Delete tasks
 
-Mark tasks as complete
+_ Mark tasks as complete
 
-Filter (All / Active / Completed)
+_ Filter (All / Active / Completed)
 
-Persistent data using LocalStorage
+_ Persistent data using LocalStorage
 
-Clean and responsive UI
+_ Clean and responsive UI
 
 Concepts Practiced:
 
-useState
+- useState
 
-useEffect
+- useEffect
 
-Props
+- Props
 
-Component structuring
+- Component structuring
 
-Conditional rendering
+- Conditional rendering
 
-Array methods (map, filter)
+- Array methods (map, filter)
 
 🎯 Objectives
 
 This series focuses on:
 
-Writing cleaner React code
+- Writing cleaner React code
 
-Understanding state flow deeply
+- Understanding state flow deeply
 
-Building production-like small projects
+- Building production-like small projects
 
-Maintaining daily consistency
+- Maintaining daily consistency
 
 🚀 How to Run Locally
-
+```
 Clone the repository
 
 git clone https://github.com/your-username/BuildWithReact.git
@@ -125,15 +117,16 @@ http://localhost:5173
 
 This is part of a continuous React learning streak.
 New projects will be added consistently.
+```
 
 📌 Why This Repository Matters
 
 This repository demonstrates:
 
-Practical implementation skills
+- Practical implementation skills
 
-Code organization
+- Code organization
 
-Version control discipline
+- Version control discipline
 
-Incremental learning approach
+- Incremental learning approach
