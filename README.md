@@ -1,70 +1,139 @@
-# Getting Started with Create React App
+BuildWithReact 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A structured streak of small, focused React projects built to strengthen core frontend fundamentals and practical development skills.
 
-## Available Scripts
+This repository documents my consistent hands-on journey with React — focusing on real implementation rather than theory.
 
-In the project directory, you can run:
+📌 About This Repository
 
-### `npm start`
+BuildWithReact is a daily project series where each folder represents a small but complete React application.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The goal is to:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Strengthen React fundamentals
 
-### `npm test`
+Practice clean component architecture
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Improve state management skills
 
-### `npm run build`
+Build consistency and discipline
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Create portfolio-ready mini projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🛠 Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+React
 
-### `npm run eject`
+JavaScript (ES6+)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Vite
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+CSS
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+LocalStorage (for persistence)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Git & GitHub
 
-## Learn More
+📂 Project Structure
+BuildWithReact/
+│
+├── Day-01-Todo-App
+├── Day-02-...
+├── Day-03-...
+│
+└── README.md
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Each folder contains:
 
-### Code Splitting
+Source code
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Project-specific README (if required)
 
-### Analyzing the Bundle Size
+Screenshots (optional)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+🔥 Current Projects
+Day 01 – Todo App
 
-### Making a Progressive Web App
+Features:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Add tasks
 
-### Advanced Configuration
+Delete tasks
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Mark tasks as complete
 
-### Deployment
+Filter (All / Active / Completed)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Persistent data using LocalStorage
 
-### `npm run build` fails to minify
+Clean and responsive UI
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Concepts Practiced:
+
+useState
+
+useEffect
+
+Props
+
+Component structuring
+
+Conditional rendering
+
+Array methods (map, filter)
+
+🎯 Objectives
+
+This series focuses on:
+
+Writing cleaner React code
+
+Understanding state flow deeply
+
+Building production-like small projects
+
+Maintaining daily consistency
+
+🚀 How to Run Locally
+
+Clone the repository
+
+git clone https://github.com/your-username/BuildWithReact.git
+
+
+Navigate into a project folder
+
+cd Day-01-Todo-App
+
+
+Install dependencies
+
+npm install
+
+
+Run the development server
+
+npm run dev
+
+
+Open in browser
+
+http://localhost:5173
+
+📈 Progress Commitment
+
+This is part of a continuous React learning streak.
+New projects will be added consistently.
+
+📌 Why This Repository Matters
+
+This repository demonstrates:
+
+Practical implementation skills
+
+Code organization
+
+Version control discipline
+
+Incremental learning approach
