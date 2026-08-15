@@ -1,16 +1,33 @@
-# React + Vite
+# 🔍 GitHub Profile Finder ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Made%20with-💜-ff69b4?style=for-the-badge" />
+</p>
 
-Currently, two official plugins are available:
+A tiny, snappy React app that lets you **search any GitHub username** and instantly see their avatar, bio, and stats 🎯
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+### ✨ Features
+- 🔎 Search any GitHub username
+- 🖼️ Shows avatar, name & bio
+- 📊 Displays repos, followers & following
+- ⚡ Built with React + Vite + GitHub REST API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🛠️ Tech Stack
+`React` · `JavaScript (ES6+)` · `Fetch API` · `CSS3`
 
-## Expanding the ESLint configuration
+### 🚀 Run it locally
+```bash
+npm install
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💡 What I learned
+Working with async `fetch` calls, conditional rendering, and handling API errors gracefully in React.
+
+---
+
+<p align="center">Made with 🩷 by <b>Madhura</b></p>
